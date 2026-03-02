@@ -1,0 +1,16 @@
+
+> react-example@0.0.0 build
+> next build
+
+▲ Next.js 16.1.6 (Turbopack)
+
+  Creating an optimized production build ...
+✓ Compiled successfully in 4.8s
+  Running TypeScript ...
+  Collecting page data using 5 workers ...
+  Generating static pages using 5 workers (0/33) ...
+  Generating static pages using 5 workers (8/33) 
+  Generating static pages using 5 workers (16/33) 
+  Generating static pages using 5 workers (24/33) 
+✓ Generating static pages using 5 workers (33/33) in 733.4ms
+  Finalizing page optimization ...
